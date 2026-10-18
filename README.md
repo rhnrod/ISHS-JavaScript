@@ -1,8 +1,8 @@
 # I Shoud Have Studied... JavaScript
 ![ISHE-JavaScript](cover.png)
 
-Did you ever felt lost as Software Developer?
-Well, be my guest. We all could study a little further.
+Have you ever felt lost as a software developer?
+Well, you're not alone. We could all study a little more.
 
 **Choose Your Path**
 
