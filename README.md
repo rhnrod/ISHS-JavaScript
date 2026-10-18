@@ -10,11 +10,9 @@ Well, you're not alone. We could all study a little more.
 
 # 🇧🇷 PT-BR
 ## 00. Um Repositório para <s>Leigos</s> Iniciantes
-```js
-Como usar this* repositório.
 ```
-
-<sub>* ficou uma porcaria, mas é o que deu. 😵</sub>
+Como usar este repositório.
+```
 
 - Isso não é um livro de histórias, é mais um tipo de manual: Vá direto no que você precisa. Estude, se aperfeiçoe, vá além.
 - Cada diretório é numberado e focdo, antes de tudo, em livros. Leia o `README.md` para entender o que tá rolando.
@@ -28,7 +26,7 @@ Aqui você vai aprender sobre Estrutura de Dados e Algoritmos com JavaScript. Se
 
 # 🇺🇸 EN-US
 ## 00. A Repo for <s>Dummies</s> Beginners
-```javascript
+```
 How to use this repo.
 ```
 - This is not a story book, it's much like a manual: Go for what you need. Study, improve, go further.
